@@ -1,5 +1,5 @@
 ## Hi there 👋
-💳 My name is Hung. This is where I keep my papers' code.  
+💳 My name is **Hung**. This is where I keep my papers' code.  
 🔭 I’m currently working on AI/ML/RL projects.
 
 ## 📈 My Github History!

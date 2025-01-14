@@ -1,9 +1,11 @@
 ## Hi there 👋
-💳 My name is Hung. 
+💳 My name is Hung. This is where I keep my papers' code.  
 🔭 I’m currently working on AI/ML/RL projects
 
 ## 📈 My Github History!
-[![Hung Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaihungle)](https://github.com/thaihungle/github-readme-stats)
+[![Hung Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaihungle)](https://github.com/thaihungle/github-readme-stats&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaihungle&hide_progress=true)
+
 <!--
 **thaihungle/thaihungle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

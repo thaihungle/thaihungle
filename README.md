@@ -1,18 +1,19 @@
 ## Hi there 👋
 💳 My name is Hung. This is where I keep my papers' code.  
-🔭 I’m currently working on AI/ML/RL projects
+🔭 I’m currently working on AI/ML/RL projects.
 
 ## 📈 My Github History!
 <a href="https://github.com/thaihungle/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=thaihungle&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/thaihungle/top-langs">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihungle&hide_progress=true&theme=dark&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihungle&hide_progress=true&theme=dark&layout=donut" />
 </a>
 
 ## 🏆 My Recent Works
 - [Multi-Reference Preference Optimization for Large Language Models](https://github.com/thaihungle/MRPO)
 - [Beyond surprise: improving exploration through surprise novelty](https://github.com/thaihungle/SM)
+- [Neurocoder: General-Purpose Computation Using Stored Neural Programs](https://github.com/thaihungle/Neurocoder)
 
 
 

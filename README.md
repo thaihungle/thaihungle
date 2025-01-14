@@ -4,11 +4,16 @@
 
 ## 📈 My Github History!
 <a href="https://github.com/thaihungle/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thaihungle&show_icons=true&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=thaihungle&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/thaihungle/top-langs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihungle&hide_progress=true&theme=radical&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihungle&hide_progress=true&theme=dark&layout=compact" />
 </a>
+
+## 🏆 My Recent Works
+- Multi-Reference Preference Optimization for Large Language Models: [!MRPO](https://github.com/thaihungle/MRPO)
+- Beyond surprise: improving exploration through surprise novelty: [!SM](https://github.com/thaihungle/SM)
+
 
 
 <!--

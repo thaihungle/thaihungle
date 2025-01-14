@@ -11,8 +11,8 @@
 </a>
 
 ## 🏆 My Recent Works
-- Multi-Reference Preference Optimization for Large Language Models: [!MRPO](https://github.com/thaihungle/MRPO)
-- Beyond surprise: improving exploration through surprise novelty: [!SM](https://github.com/thaihungle/SM)
+- [Multi-Reference Preference Optimization for Large Language Models](https://github.com/thaihungle/MRPO)
+- [Beyond surprise: improving exploration through surprise novelty](https://github.com/thaihungle/SM)
 
 
 

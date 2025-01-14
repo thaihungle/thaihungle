@@ -7,7 +7,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=thaihungle&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/thaihungle/top-langs">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihungle&hide_progress=true&theme=dark&layout=donut-bar" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihungle&theme=dark&layout=donut" />
 </a>
 
 ## 🏆 My Recent Works

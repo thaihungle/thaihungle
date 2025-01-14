@@ -4,10 +4,10 @@
 
 ## 📈 My Github History!
 <a href="https://github.com/thaihungle/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=thaihungle&show_icons=true&theme=dark&hide=prs,issues&hide_rank=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=thaihungle&show_icons=true&theme=dracula&hide=prs,issues&hide_rank=true" />
 </a>
 <a href="https://github.com/thaihungle/top-langs">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihungle&theme=dark&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihungle&theme=dracula&layout=compact" />
 </a>
 
 ## 🏆 My Recent Works

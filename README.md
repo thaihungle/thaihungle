@@ -1,6 +1,6 @@
 ## Hi there 👋
 💳 My name is **Hung**. This is where I keep my papers' code.  
-🔭 I’m currently working on AI/ML/RL projects.
+🔭 I’m currently working on AI/ML/RL academic projects. 
 
 ## 📈 My Github History!
 <a href="https://github.com/thaihungle/github-readme-stats">

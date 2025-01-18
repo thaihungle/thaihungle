@@ -12,6 +12,7 @@
 
 ## 🏆 My Recent Works
 - [Multi-Reference Preference Optimization for Large Language Models](https://github.com/thaihungle/MRPO)
+- [Pointer-Augmented Neural Memory](https://github.com/thaihungle/PANM)
 - [Beyond surprise: improving exploration through surprise novelty](https://github.com/thaihungle/SM)
 - [Neurocoder: General-Purpose Computation Using Stored Neural Programs](https://github.com/thaihungle/Neurocoder)
 

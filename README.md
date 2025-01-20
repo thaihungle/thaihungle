@@ -11,6 +11,7 @@
 </a>
 
 ## 🏆 My Recent Works
+- [Stable Hadamard Memory](https://github.com/thaihungle/SHM)
 - [Multi-Reference Preference Optimization for Large Language Models](https://github.com/thaihungle/MRPO)
 - [Pointer-Augmented Neural Memory](https://github.com/thaihungle/PANM)
 - [Beyond surprise: improving exploration through surprise novelty](https://github.com/thaihungle/SM)

@@ -11,6 +11,7 @@
 </a>
 
 ## 🏆 My Recent Works
+- [Reasoning Under 1 Billion](https://github.com/thaihungle/Memory-R)
 - [Stable Hadamard Memory](https://github.com/thaihungle/SHM)
 - [Multi-Reference Preference Optimization for Large Language Models](https://github.com/thaihungle/MRPO)
 - [Pointer-Augmented Neural Memory](https://github.com/thaihungle/PANM)

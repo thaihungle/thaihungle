@@ -1,5 +1,5 @@
 ## Hi there 👋
-💳 My name is **Hưng**. This is where I keep my papers' code.  
+💳 My name is **Hưng Lê**. This is where I keep my papers' code.  
 🔭 I’m currently working on AI/ML/RL research projects. 
 
 ## 📈 My Github History!

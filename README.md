@@ -3,12 +3,8 @@
 🔭 I’m currently working on AI/ML/RL research projects. 
 
 ## 📈 My Github History!
-<a href="https://github.com/thaihungle/github-readme-stats">
-  <img height=150 align="center" src="https://test-zeta-five-65.vercel.app/api?username=thaihungle&show_icons=true&show_icons=true&theme=dracula&hide=prs,issues&hide_rank=true" />
-</a>
-<a href="https://github.com/thaihungle/top-langs">
-  <img height=150 align="center" src="https://test-zeta-five-65.vercel.app/api/top-langs/?username=thaihungle&theme=dracula&layout=compact" />
-</a>
+<p align="center"> <a href="https://github.com/thaihungle?tab=repositories&sort=stargazers"> <img alt="Total Stars" src="https://img.shields.io/github/stars/thaihungle?affiliations=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&labelColor=282a36&color=bd93f9" /> </a> </p> <p align="center"> <a href="https://github.com/thaihungle/github-readme-stats"> <img height="165" alt="GitHub Stats" src="https://test-zeta-five-65.vercel.app/api?username=thaihungle&show_icons=true&theme=dracula&hide=prs,issues,stars&hide_rank=true&line_height=40" /> </a> <a href="https://github.com/thaihungle/top-langs"> <img height="165" alt="Top Languages" src="https://test-zeta-five-65.vercel.app/api/top-langs/?username=thaihungle&theme=dracula&layout=compact" /> </a> </p>
+
 
 ## 🏆 My Recent Works
 - [Reasoning Under 1 Billion](https://github.com/thaihungle/Memory-R)
